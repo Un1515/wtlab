@@ -1,0 +1,22 @@
+.topbar{
+    height:50px;
+    background-color: violet;
+}
+.logosection{
+    height:auto;
+    background-color: black;
+}
+.menubar{
+    background-color: black;
+    border: none;
+    border-radius: 50px;
+}
+.nav>li>a{
+    color:white !important;
+}
+.text{
+    text-align: center;
+    font-size: 50px;
+    color:green;
+    float:left;
+}
